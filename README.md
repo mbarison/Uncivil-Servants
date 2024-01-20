@@ -21,7 +21,7 @@ The game runs over 4 rounds, representing a quarter of a year. In each quarter, 
 
 ## Success tracks
 
-Tracks with 6 spaces, from -3 to +3. Game starts at 0. If any of the three tracks ends at -3, the agency is disgraced and the government launches an investigation. All players lose.
+Tracks with 7 spaces, from -3 to +3. Game starts at 0. If any of the three tracks ends at -3, the agency is disgraced and the government launches an investigation. All players lose.
 
 - Service Delivery
 - Financial Sustainability
