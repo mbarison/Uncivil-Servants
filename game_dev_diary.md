@@ -17,3 +17,9 @@ At the beginning of the game, each Division will have limited manpower (i.e. mee
 ## February 3rd, 2024
 
 I had a look at the new game [_Federation_](https://boardgamegeek.com/boardgame/345868/federation) and it gave me some ideas on how to implement the project tracks. Instead of having to fill a pool with a given amount of meeples,  each meeple will make a counter advance on a track each round, and when the track is complete, then the project is complete. This will give players the possibility of completing multiple turns on each quarter, or withdraw support at the last minute. Also, I am starting to think that I need a project deck separated from the main playing deck. Projects may have different score and costs, and players can activate a project playing a main card from their hand.
+
+Another idea: using gray meeples as _consultants_, i.e. workforce that instead of speeding up your projects, slows them down.
+
+## February 5th, 2024
+
+I will add another oprtion for players: a _Training Track_ where, upon completion of the track, the player will get one extra meeple. Some training will be made compulsory (bilingualism, tee hee hee!).
